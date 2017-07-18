@@ -35,6 +35,3 @@ subplot(2,2,3), imshow(uint8(gx),[]);
 title('Sobel Horizontal Sharpened Edges');
 subplot(2,2,4), imshow(uint8(gy),[]);
 title('Sobel Vertical Sharpened Edges');
-
-%subplot(2,2,3), imshow(h,[]);
-%title('After Apllying the Prewitt Filter');
